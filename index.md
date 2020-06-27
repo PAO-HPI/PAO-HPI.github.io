@@ -11,3 +11,6 @@ Der tollpatschige Panda Po wünscht sich nichts sehnlicher, als Kung-Fu-Kämpfer
 
 ## Zitat
 > Wenn du nur tust, was du schon kannst, wirst du nie mehr sein, als das was du schon bist.
+
+
+<img src = "https://en.wikipedia.org/wiki/Kung_Fu_Panda:_Showdown_of_Legendary_Legends#/media/File:KungfuPandaXboxOneboxart.png">
