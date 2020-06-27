@@ -9,3 +9,5 @@ Der tollpatschige Panda Po wünscht sich nichts sehnlicher, als Kung-Fu-Kämpfer
 * ist ein guter Freund
 * kann Kung Fu
 
+## Zitat
+> Wenn du nur tust, was du schon kannst, wirst du nie mehr sein, als das was du schon bist.
